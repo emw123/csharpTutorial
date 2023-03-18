@@ -1,0 +1,15 @@
+C:\git\csharpTutorial\stack-problem-solution\bin\Debug\net7.0\stack-problem-solution.exe
+C:\git\csharpTutorial\stack-problem-solution\bin\Debug\net7.0\stack-problem-solution.deps.json
+C:\git\csharpTutorial\stack-problem-solution\bin\Debug\net7.0\stack-problem-solution.runtimeconfig.json
+C:\git\csharpTutorial\stack-problem-solution\bin\Debug\net7.0\stack-problem-solution.dll
+C:\git\csharpTutorial\stack-problem-solution\bin\Debug\net7.0\stack-problem-solution.pdb
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.csproj.AssemblyReference.cache
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.AssemblyInfoInputs.cache
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.AssemblyInfo.cs
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.csproj.CoreCompileInputs.cache
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.dll
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\refint\stack-problem-solution.dll
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.pdb
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\stack-problem-solution.genruntimeconfig.cache
+C:\git\csharpTutorial\stack-problem-solution\obj\Debug\net7.0\ref\stack-problem-solution.dll

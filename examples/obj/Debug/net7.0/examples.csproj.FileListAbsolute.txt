@@ -1,0 +1,15 @@
+C:\git\csharpTutorial\examples\bin\Debug\net7.0\examples.exe
+C:\git\csharpTutorial\examples\bin\Debug\net7.0\examples.deps.json
+C:\git\csharpTutorial\examples\bin\Debug\net7.0\examples.runtimeconfig.json
+C:\git\csharpTutorial\examples\bin\Debug\net7.0\examples.dll
+C:\git\csharpTutorial\examples\bin\Debug\net7.0\examples.pdb
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.csproj.AssemblyReference.cache
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.AssemblyInfoInputs.cache
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.AssemblyInfo.cs
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.csproj.CoreCompileInputs.cache
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.dll
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\refint\examples.dll
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.pdb
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\examples.genruntimeconfig.cache
+C:\git\csharpTutorial\examples\obj\Debug\net7.0\ref\examples.dll
