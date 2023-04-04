@@ -3,17 +3,84 @@ This data structure is best described as controlled by the order that items are 
 
 A stack in C# is written by first creating an empty stack within a function.
 In order to add items to the stack, the push method is utilized. When the stack is printed out, these items will be listed in the reverse order that they were added.
-![Example 1 Image](images/stackImages/1-example.png)  
+    
+    public class ExamplesStack {
+        // Creates and initializes a new Stack.
+        Stack newStack = new Stack();
+        // Adds items to the stack
+        newStack.Push("1");
+        newStack.Push("2");
+        newStack.Push("3");
+        // Iterates through each item in the stack
+        foreach (var item in newStack){
+            // Prints each item in the stack.
+            Console.Write(item + " ");
+        }
+    }
 ## Last in, First Out
 As mentioned above, items can only be added or removed at the end of the stack. Doing anything to the stack starting from the middle is generally not allowed.  
 
 In order to remove a item from the stack, the pop method is utilized. This will remove the last item in the stack, or more items, depending on how many the user specified. Even if more than one item is removed, the item that was most recently added will be removed first, with any following items also being removed in the reverse order that they were added.  
-![Example 2 Images](images/stackImages/2-example.png)  
+
+    public static void Main(){
+        // Creates and initializes a new Stack.
+        Stack newStack = new Stack();
+        // Adds items to the stack
+        newStack.Push("1");
+        newStack.Push("2");
+        newStack.Push("3");
+        newStack.Push("4");
+        newStack.Push("5");
+        newStack.Push("6");
+        // Iterates through each item in the stack
+        foreach (var item in newStack){
+            // Prints each item in the stack.
+            Console.Write(item + " ");
+        }
+        // Removes the last item in the stack.
+        Console.WriteLine();
+        newStack.Pop();
+        foreach (var item in newStack){
+            // Prints each item in the stack.
+            Console.Write(item + " ");
+        }
+        Console.WriteLine();
+        newStack.Pop();
+        foreach (var item in newStack){
+            // Prints each item in the stack.
+            Console.Write(item + " ");
+        }
+        Console.WriteLine();
+        newStack.Pop();
+        foreach (var item in newStack){
+            // Prints each item in the stack.
+            Console.Write(item + " ");
+        }
+
+    }
 These are the results for the example above.  
 ![Example 2 Results](images/stackImages/2-exampleResults.png)  
 ## Push, Pop, and Clear  
 The push and pop methods have already been introduced in this tutorial, but we're going to go into a little more detail about them, as well as talk a little about the clear method. The push and pop methods are essentially opposites. Push adds an item to the stack, pop removes one. Clear is very similar to pop, except it removes all the items in the stack, rather than simply the last one pushed.  
-![Example 3 Image](images/stackImages/3-example.png)  
+
+    public static void Main(){
+        Stack newStack = new Stack();
+        newStack.Push("1");
+        newStack.Pop();
+        newStack.Push("2");
+        newStack.Push("3");
+        newStack.Push("4");
+        newStack.Pop();
+        foreach (var item in newStack){
+            Console.Write(item + " ");
+        }
+        Console.WriteLine();
+        newStack.Clear();
+        newStack.Push("27");
+        foreach (var item in newStack){
+            Console.Write(item + " ");
+        }
+    }
 Here are the results for the above example
 ![Example 3 Results](images/stackImages/3-exampleResult.png)  
 ## Top to Bottom  
